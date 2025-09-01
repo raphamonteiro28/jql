@@ -1,0 +1,22 @@
+# Dependências
+node_modules/
+*.log
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows executáveis temporários
+*.cmd
+*.exe
+*.ps1
+*.bat
+
+# IDE/Editor
+.vscode/
+.idea/
